@@ -95,24 +95,20 @@ p {
 }
 
 .logo {
-  width: 160px;
-  max-width: 70%;
-  margin-bottom: 20px;
+  width: 120px;
+  max-width: 50%;
+  height: auto;
+  margin-bottom: 16px;
 }
 
 .header {
   margin-bottom: 60px;
 }
 
-.logo {
-  width: 120px;
-  max-width: 50%;
-  height: auto;
-  margin-bottom: 16px;
-}
 h1 {
   font-size: 32px;
 }
 .tagline {
   font-size: 18px;
 }
+
