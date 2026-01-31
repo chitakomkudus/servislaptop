@@ -93,3 +93,9 @@ p {
 .gallery img:hover {
   transform: scale(1.03);
 }
+
+.logo {
+  width: 160px;
+  max-width: 70%;
+  margin-bottom: 20px;
+}
