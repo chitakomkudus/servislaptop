@@ -103,3 +103,16 @@ p {
 .header {
   margin-bottom: 60px;
 }
+
+.logo {
+  width: 120px;
+  max-width: 50%;
+  height: auto;
+  margin-bottom: 16px;
+}
+h1 {
+  font-size: 32px;
+}
+.tagline {
+  font-size: 18px;
+}
