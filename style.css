@@ -95,10 +95,10 @@ p {
 }
 
 .logo {
-  width: 120px;
-  max-width: 50%;
+  width: 150px;
+  max-width: 56%;
   height: auto;
-  margin-bottom: 16px;
+  margin-bottom: 22px;
 }
 
 .header {
@@ -111,4 +111,5 @@ h1 {
 .tagline {
   font-size: 18px;
 }
+
 
