@@ -64,3 +64,32 @@ h2 {
   color: #64748b;
 }
 
+.card {
+  background-color: #020617;
+  padding: 40px 30px;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+}
+
+h1 {
+  letter-spacing: 0.5px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+.btn {
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #16a34a;
+  transform: translateY(-2px);
+}
+.gallery img {
+  transition: transform 0.3s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.03);
+}
